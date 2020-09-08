@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Laravel/Vue.js
 - 🤔 I’m looking for help with Vue.js
 - 💬 Ask me about anything1
-- 📫 How to reach me: via twitter @CoachGamo
+- 📫 How to reach me: via twitter @CoachGamo or via mail at hello@aiwanit.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Currently learning clown stuff.
