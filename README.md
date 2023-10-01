@@ -1,10 +1,9 @@
 ## Hello there ! 
 
 - 🔭 I’m currently working on secret projects
-- 🌱 I’m currently learning Vue.JS
-- 👯 I’m looking to collaborate on Laravel/Vue.js
-- 🤔 I’m looking for help with Vue.js
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on everything related for web applications
 - 💬 Ask me about anything1
-- 📫 How to reach me: via twitter @IA_DEV_ or via mail at pro@ilyas-akhrif.com
+- 📫 How to reach me: via mail at pro@ilyas-akhrif.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Currently learning magic tricks.
+- ⚡ Fun fact: Was a host for 1 year in Youtube Show back in 2018
